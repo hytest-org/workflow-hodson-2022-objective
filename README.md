@@ -1,4 +1,4 @@
-# Workflow for benchmarking objectives
+# A workflow for benchmarking objective functions
 This repository demonstrates a workflow for benchmarking objective functions based on their likelihoods (or information content).
 It was developed as part of the U.S. Geological Survey (Hydro-terrestrial Earth Systems Testbed (HyTEST) project.
 The repository contains two python notebooks; most users should begin by reading the second notebook:
@@ -12,4 +12,4 @@ No warranty, expressed or implied, is made by the USGS or the U.S. Government as
 Furthermore, the software is released on condition that neither the USGS nor the U.S. Government shall be held liable for any damages resulting from its authorized or unauthorized use.
 
 ## Citation
-Hodson, T.O., 2022, A demonstration workflow for benchmarking objective functions. doi:10.5066/XXXXXXXX
+Hodson, T.O., 2022, A demonstration workflow for benchmarking objective functions. https://doi.org/10.5066/P983Q1D2
