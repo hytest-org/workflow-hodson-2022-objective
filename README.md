@@ -12,5 +12,5 @@ No warranty, expressed or implied, is made by the USGS or the U.S. Government as
 Furthermore, the software is released on condition that neither the USGS nor the U.S. Government shall be held liable for any damages resulting from its authorized or unauthorized use.
 
 ## Citation
-Hodson, T.O., 2022, A demonstration workflow for benchmarking objective functions:
+Hodson, T.O., 2023, A demonstration workflow for benchmarking objective functions:
 U.S. Geological Survey software release, https://doi.org/10.5066/P983Q1D2
