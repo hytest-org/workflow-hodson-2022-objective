@@ -1,6 +1,6 @@
 [
   {
-    "name": "workflow-hodson-2022-objective-benchmark",
+    "name": "workflow-hodson-2023-objective-benchmark",
     "organization": "U.S. Geological Survey",
     "description": "A demonstration workflow for benchmarking objective functions based on their likelihoods (or information content)",
     "version": "1.0.0",
@@ -11,15 +11,15 @@
       "licenses": [
         {
           "name": "Public Domain, CC0-1.0",
-          "URL": "https://code.usgs.gov/wma/hytest/workflows/workflow-hodson-2022-objective-benchmark/-/raw/main/LICENSE.md"
+          "URL": "https://code.usgs.gov/wma/hytest/workflows/workflow-hodson-2023-objective-benchmark/-/raw/main/LICENSE.md"
         }
       ]
     },
 
-    "homepageURL": "https://code.usgs.gov/wma/hytest/workflows/workflow-hodson-2022-objective-benchmark",
-    "downloadURL": "https://code.usgs.gov/wma/hytest/workflows/workflow-hodson-2022-objective-benchmark/-/archive/main/workflow-hodson-2022-objective-benchmark-main.zip",
-    "disclaimerURL": "https://code.usgs.gov/wma/hytest/workflows/workflow-hodson-2022-objective-benchmark/-/raw/main/DISCLAIMER.md",
-    "repositoryURL": "https://code.usgs.gov/wma/hytest/workflows/workflow-hodson-2022-objective-benchmark.git",
+    "homepageURL": "https://code.usgs.gov/wma/hytest/workflows/workflow-hodson-2023-objective-benchmark",
+    "downloadURL": "https://code.usgs.gov/wma/hytest/workflows/workflow-hodson-2023-objective-benchmark/-/archive/main/workflow-hodson-2023-objective-benchmark-main.zip",
+    "disclaimerURL": "https://code.usgs.gov/wma/hytest/workflows/workflow-hodson-2023-objective-benchmark/-/raw/main/DISCLAIMER.md",
+    "repositoryURL": "https://code.usgs.gov/wma/hytest/workflows/workflow-hodson-2023-objective-benchmark.git",
     "vcs": "git",
 
     "laborHours": 0,
@@ -41,7 +41,7 @@
     },
 
     "date": {
-      "metadataLastUpdated": "2022-12-19"
+      "metadataLastUpdated": "2023-01-06"
     }
   }
 ]
