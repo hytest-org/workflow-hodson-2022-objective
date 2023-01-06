@@ -13,4 +13,4 @@ Furthermore, the software is released on condition that neither the USGS nor the
 
 ## Citation
 Hodson, T.O., 2023, A demonstration workflow for benchmarking objective functions:
-U.S. Geological Survey software release, https://doi.org/10.5066/P983Q1D2
+U.S. Geological Survey software release, https://doi.org/10.5066/P983Q1D2.
